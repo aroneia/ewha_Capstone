@@ -1,6 +1,4 @@
-hello this is new file
-with eunjin, hansu, 려경
+스마트폰 어플리케이션 Don't Drowsy Driving 
 
-
-it's me hansu
-and it's ryeogyeong~~
+얼굴인식을 통해 졸릴 때 발생하는 눈깜빡임을 인식하고, 이산화탄소 센서를 통해 이산화농도를 체크한다. 
+이산화농도가 높은 경우에는 환기요망 알림을 하고 이에 더해 졸음이 감지 되면 운전자를 깨우는 여러가지 기능을 제공하는 어플리케이션을 구현하고자 한다. 
